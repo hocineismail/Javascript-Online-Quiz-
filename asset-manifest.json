@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/exam-Online-Quiz/static/css/main.50aa617f.chunk.css",
-    "main.js": "/exam-Online-Quiz/static/js/main.dad6778d.chunk.js",
-    "main.js.map": "/exam-Online-Quiz/static/js/main.dad6778d.chunk.js.map",
-    "runtime-main.js": "/exam-Online-Quiz/static/js/runtime-main.ba690350.js",
-    "runtime-main.js.map": "/exam-Online-Quiz/static/js/runtime-main.ba690350.js.map",
-    "static/css/2.6c0f60ba.chunk.css": "/exam-Online-Quiz/static/css/2.6c0f60ba.chunk.css",
-    "static/js/2.138128bd.chunk.js": "/exam-Online-Quiz/static/js/2.138128bd.chunk.js",
-    "static/js/2.138128bd.chunk.js.map": "/exam-Online-Quiz/static/js/2.138128bd.chunk.js.map",
-    "static/js/3.271f8d44.chunk.js": "/exam-Online-Quiz/static/js/3.271f8d44.chunk.js",
-    "static/js/3.271f8d44.chunk.js.map": "/exam-Online-Quiz/static/js/3.271f8d44.chunk.js.map",
-    "index.html": "/exam-Online-Quiz/index.html",
-    "static/css/2.6c0f60ba.chunk.css.map": "/exam-Online-Quiz/static/css/2.6c0f60ba.chunk.css.map",
-    "static/css/main.50aa617f.chunk.css.map": "/exam-Online-Quiz/static/css/main.50aa617f.chunk.css.map",
-    "static/js/2.138128bd.chunk.js.LICENSE.txt": "/exam-Online-Quiz/static/js/2.138128bd.chunk.js.LICENSE.txt"
+    "main.css": "/Javascript-Online-Quiz-/static/css/main.50aa617f.chunk.css",
+    "main.js": "/Javascript-Online-Quiz-/static/js/main.e1b4f8d0.chunk.js",
+    "main.js.map": "/Javascript-Online-Quiz-/static/js/main.e1b4f8d0.chunk.js.map",
+    "runtime-main.js": "/Javascript-Online-Quiz-/static/js/runtime-main.e243e6cf.js",
+    "runtime-main.js.map": "/Javascript-Online-Quiz-/static/js/runtime-main.e243e6cf.js.map",
+    "static/css/2.6c0f60ba.chunk.css": "/Javascript-Online-Quiz-/static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.72794419.chunk.js": "/Javascript-Online-Quiz-/static/js/2.72794419.chunk.js",
+    "static/js/2.72794419.chunk.js.map": "/Javascript-Online-Quiz-/static/js/2.72794419.chunk.js.map",
+    "static/js/3.d3fae910.chunk.js": "/Javascript-Online-Quiz-/static/js/3.d3fae910.chunk.js",
+    "static/js/3.d3fae910.chunk.js.map": "/Javascript-Online-Quiz-/static/js/3.d3fae910.chunk.js.map",
+    "index.html": "/Javascript-Online-Quiz-/index.html",
+    "static/css/2.6c0f60ba.chunk.css.map": "/Javascript-Online-Quiz-/static/css/2.6c0f60ba.chunk.css.map",
+    "static/css/main.50aa617f.chunk.css.map": "/Javascript-Online-Quiz-/static/css/main.50aa617f.chunk.css.map",
+    "static/js/2.72794419.chunk.js.LICENSE.txt": "/Javascript-Online-Quiz-/static/js/2.72794419.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba690350.js",
+    "static/js/runtime-main.e243e6cf.js",
     "static/css/2.6c0f60ba.chunk.css",
-    "static/js/2.138128bd.chunk.js",
+    "static/js/2.72794419.chunk.js",
     "static/css/main.50aa617f.chunk.css",
-    "static/js/main.dad6778d.chunk.js"
+    "static/js/main.e1b4f8d0.chunk.js"
   ]
 }
