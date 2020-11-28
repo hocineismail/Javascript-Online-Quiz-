@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/exam-Online-Quiz/static/css/main.50aa617f.chunk.css",
-    "main.js": "/exam-Online-Quiz/static/js/main.d31bde7f.chunk.js",
-    "main.js.map": "/exam-Online-Quiz/static/js/main.d31bde7f.chunk.js.map",
+    "main.js": "/exam-Online-Quiz/static/js/main.dad6778d.chunk.js",
+    "main.js.map": "/exam-Online-Quiz/static/js/main.dad6778d.chunk.js.map",
     "runtime-main.js": "/exam-Online-Quiz/static/js/runtime-main.ba690350.js",
     "runtime-main.js.map": "/exam-Online-Quiz/static/js/runtime-main.ba690350.js.map",
     "static/css/2.6c0f60ba.chunk.css": "/exam-Online-Quiz/static/css/2.6c0f60ba.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.6c0f60ba.chunk.css",
     "static/js/2.138128bd.chunk.js",
     "static/css/main.50aa617f.chunk.css",
-    "static/js/main.d31bde7f.chunk.js"
+    "static/js/main.dad6778d.chunk.js"
   ]
 }
